@@ -22,5 +22,5 @@
 | 12  | 08       | 08           | UTS | [UTS](https://drive.google.com/file/d/1dGOVNw6SzqqZ3PYynRULnel5LTeyGghx/view?usp=drive_link) | [Code UTS](https://github.com/akbarfadhil/UTS-MOBILE) |
 | 12  | 08       | 08           | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://drive.google.com/file/d/1Xf_VB_mS-vW5K7ltMpWE9N2PjEWHBUWi/view?usp=sharing) | [Code 12](https://github.com/akbarfadhil/modul12) |
 | 13  | 09       | 09           | Operasi CRUD | [Modul 13](https://drive.google.com/file/d/1C0KWENmb0pXo15yh3cGOtjVWJ_CXabPa/view?usp=sharing) | [Code 13](https://github.com/akbarfadhil/modul13) |
-| 14  | 10       | 10           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [UAS](https://drive.google.com/file/d/15d7AiD7tBCrXSRXJEoHnNDLkItTCbxhl/view?usp=drive_link) | [Code UAS](https://github.com/akbarfadhil/modul4) |
+| 14  | 10       | 10           | Hadist Digital | [UAS](https://drive.google.com/file/d/110FS8ViuSY13eUuWnVzFhhV0jxee73TG/view?usp=drive_link) | [Code UAS](https://github.com/akbarfadhil/UAS-MOBILE) |
 
